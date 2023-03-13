@@ -1,5 +1,5 @@
 {
-    "name": "jhiguera99/module-custom",
+    "name": "magento/module-custom",
     "description": "N/A",
     "type": "magento2-module",
     "license": [
@@ -10,8 +10,7 @@
         "sort-packages": true
     },
     "require": {
-        "php": "~7.4.0||~8.1.0",
-        "custom-module-jh/module-custom": "0.0.1-beta"
+        "php": "~7.4.0||~8.1.0"
     },
     "autoload": {
         "files": [
@@ -19,3 +18,4 @@
         ]
     }
 }
+

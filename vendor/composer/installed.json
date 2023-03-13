@@ -1,0 +1,44 @@
+{
+    "packages": [
+        {
+            "name": "custom-module-jh/module-custom",
+            "version": "0.0.1-beta",
+            "version_normalized": "0.0.1.0-beta",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jhiguera99/module-custom.git",
+                "reference": "228e4e1fd7c1d00cb2536d5d5f72c221ad828cb0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jhiguera99/module-custom/zipball/228e4e1fd7c1d00cb2536d5d5f72c221ad828cb0",
+                "reference": "228e4e1fd7c1d00cb2536d5d5f72c221ad828cb0",
+                "shasum": ""
+            },
+            "require": {
+                "php": "~7.4.0||~8.1.0"
+            },
+            "time": "2023-03-13T20:23:31+00:00",
+            "type": "magento2-module",
+            "installation-source": "dist",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A",
+            "support": {
+                "issues": "https://github.com/jhiguera99/module-custom/issues",
+                "source": "https://github.com/jhiguera99/module-custom/tree/0.0.1-beta"
+            },
+            "install-path": "../custom-module-jh/module-custom"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

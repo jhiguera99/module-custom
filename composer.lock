@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "4be53f83f4287081c68e87f8160dbb95",
+    "packages": [
+        {
+            "name": "custom-module-jh/module-custom",
+            "version": "0.0.1-beta",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jhiguera99/module-custom.git",
+                "reference": "228e4e1fd7c1d00cb2536d5d5f72c221ad828cb0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jhiguera99/module-custom/zipball/228e4e1fd7c1d00cb2536d5d5f72c221ad828cb0",
+                "reference": "228e4e1fd7c1d00cb2536d5d5f72c221ad828cb0",
+                "shasum": ""
+            },
+            "require": {
+                "php": "~7.4.0||~8.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A",
+            "support": {
+                "issues": "https://github.com/jhiguera99/module-custom/issues",
+                "source": "https://github.com/jhiguera99/module-custom/tree/0.0.1-beta"
+            },
+            "time": "2023-03-13T20:23:31+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "custom-module-jh/module-custom": 10
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "~7.4.0||~8.1.0"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
