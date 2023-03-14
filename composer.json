@@ -5,8 +5,7 @@
     "extra": {
         "map": [
             [
-                "*",
-                "Jhiguera/Custom"
+                "*"
             ]
         ]
     },
