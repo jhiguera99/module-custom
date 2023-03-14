@@ -1,12 +1,12 @@
 {
-    "name": "your-name/module-custom",
+    "name": "jhiguera99/module-custom",
     "description": "N/A",
     "type": "magento2-module",
     "extra": {
         "map": [
             [
                 "*",
-                "YourName/CusTom"
+                "Jhiguera/Custom"
             ]
         ]
     }
