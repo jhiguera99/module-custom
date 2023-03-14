@@ -1,7 +1,15 @@
 {
-    "name": "jhiguera99/module-custom",
+    "name": "your-name/module-custom",
     "description": "N/A",
     "type": "magento2-module",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "YourName/CusTom"
+            ]
+        ]
+    }
     "license": [
         "OSL-3.0",
         "AFL-3.0"
@@ -11,7 +19,6 @@
     },
     "require": {
         "php": "~7.4.0||~8.1.0",
-        "custom-module-jh/module-custom": "0.0.1-beta"
     },
     "autoload": {
         "files": [

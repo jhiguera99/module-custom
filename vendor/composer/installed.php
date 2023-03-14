@@ -3,7 +3,7 @@
         'name' => 'jhiguera99/module-custom',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '26b7c80911b5a33cd54243b9ed57c5650a94349d',
+        'reference' => '16b5967724c9b92ab1886a4d8c8ea5063adc0d12',
         'type' => 'magento2-module',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -22,7 +22,7 @@
         'jhiguera99/module-custom' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '26b7c80911b5a33cd54243b9ed57c5650a94349d',
+            'reference' => '16b5967724c9b92ab1886a4d8c8ea5063adc0d12',
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
